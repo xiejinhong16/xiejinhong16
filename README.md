@@ -9,13 +9,18 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-集成1602谢锦红
-兴趣：
-平时喜欢在晚上跑跑步，疏解一天的劳累，周末会打打羽毛球，绕东湖骑自行车散心。
-成绩：三年来用心学习，加权在专业前百分之40.
+
+我是集成1602班的谢锦红，这是我的个人简介：
+
+兴趣：平时喜欢在晚上跑跑步，疏解一天的劳累，周末会打打羽毛球，绕东湖骑自行车散心。
+
+特长：吃苦耐劳的精神品格，遇到问题时多种方法轮流尝试，与他人友好相处，善解人意。
+
+成绩：三年来用心学习，加权在专业前百分之40。
+
 成果与荣誉：目前有计算机二级，普通话水平测试二级乙等证书，英语四级、六级证书。
+
 实践活动：参加过学院敬老院志愿者，做过过校医院义工，2018年暑假在武汉博虎科技有限公司实习过一个月。
  
 
